@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "4.8.10",
     "favicon": "@PROJECT_PATH@/assets/images/fav-128x135.png",
     "noImageResize": "",
@@ -43,7 +43,7 @@
       "settings": {
         "main": true,
         "title": "Julien Bourque",
-        "meta_descr": "",
+        "meta_descr": "Julien Bouque - Contact",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
